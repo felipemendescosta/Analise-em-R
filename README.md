@@ -60,7 +60,7 @@ barplot(
   xlab="Emoções"
 )
 ```
-
+![Gráfico de Sentimentos](img/por%20no%20readme.png)
 - **Nuvem de Palavras**
 
 ```r
@@ -74,7 +74,7 @@ comparison.cloud(nuvem_tdm, random.order = FALSE,
                  colors = c("green", "red", "orange", "blue"),
                  title.size = 1, max.words = 50, scale = c(2.5, 1), rot.per = 0.4)
 ```
-![Gráfico de Sentimentos](img/por%20no%20readme.png)
+
 
 - **Evolução dos Sentimentos ao longo do Texto**
 
