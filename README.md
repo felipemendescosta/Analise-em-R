@@ -82,7 +82,7 @@ comparison.cloud(nuvem_tdm, random.order = FALSE,
 sentimentos_valencia <- (sentimentos_df$negative * -1) + sentimentos_df$positive
 simple_plot(sentimentos_valencia)
 ```
-
+![Gráfico de Sentimentos](img/Rplot01.png)
 ## Resultado
 
 A análise demonstrou a presença de diversas emoções ao longo do texto de *Dom Casmurro*, permitindo uma compreensão mais aprofundada sobre a atmosfera emocional do livro.
